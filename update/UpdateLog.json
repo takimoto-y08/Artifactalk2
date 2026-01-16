@@ -1,17 +1,17 @@
 [
   {
     "version": "1.0.0",
-    "UpdateDate": "2026/01/23",
+    "UpdateDate": "2026-01-23",
     "UpdateLog": "・新規作成。"
   },
   {
     "version": "0.0.2",
-    "UpdateDate": "2026/01/05",
+    "UpdateDate": "2026-01-05",
     "UpdateLog": "・軽微なバグの修正\n・パフォーマンスを改善しました。"
   },
   {
     "version": "0.0.1",
-    "UpdateDate": "2026/01/01",
+    "UpdateDate": "2026-01-01",
     "UpdateLog": "・あれなおした\n・これなおした"
   }
 ]
